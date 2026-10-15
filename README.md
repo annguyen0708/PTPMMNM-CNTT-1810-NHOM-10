@@ -40,8 +40,8 @@
 
 | Bài Lab | Nội dung | Trạng thái | Nhánh Git |
 | :---: | :--- | :---: | :---: |
-| **Lab01** | Linux và Shell Script (`check-env.sh`, `scan-source.sh`) | Chưa bắt đầu | [feature/lab1](https://github.com/annguyen0708/PTPMMNM-CNTT-1810-NHOM-10/tree/feature/lab1) |
-| **Lab02** | Module PHP kiểm tra điều kiện đăng ký | Chưa bắt đầu | [feature/lab2](https://github.com/annguyen0708/PTPMMNM-CNTT-1810-NHOM-10/tree/feature/lab2) |
+| **Lab01** | Linux và Shell Script (`check-env.sh`, `scan-source.sh`) | Hoàn thành | [feature/lab1](https://github.com/annguyen0708/PTPMMNM-CNTT-1810-NHOM-10/tree/feature/lab1) |
+| **Lab02** | Module PHP kiểm tra điều kiện đăng ký | Hoàn thành | [feature/lab2](https://github.com/annguyen0708/PTPMMNM-CNTT-1810-NHOM-10/tree/feature/lab2) |
 | **Lab03** | Hiển thị sự kiện, lọc đa tiêu chí, xử lý form POST | Chưa bắt đầu | [feature/lab3](https://github.com/annguyen0708/PTPMMNM-CNTT-1810-NHOM-10/tree/feature/lab3) |
 | **Lab04** | Bản nháp bằng Session và Cookie | Chưa bắt đầu | [feature/lab4](https://github.com/annguyen0708/PTPMMNM-CNTT-1810-NHOM-10/tree/feature/lab4) |
 | **Lab05** | Cơ sở dữ liệu PostgreSQL (Lưu, truy vấn, thống kê) | Chưa bắt đầu | [feature/lab5](https://github.com/annguyen0708/PTPMMNM-CNTT-1810-NHOM-10/tree/feature/lab5) |
