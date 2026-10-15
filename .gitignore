@@ -1,0 +1,9 @@
+# Ignore đề bài clone từ upstream
+de_bai/
+
+# Ignore cấu hình bảo mật cục bộ
+*.local
+.env
+.local/
+__pycache__/
+*.tmp
