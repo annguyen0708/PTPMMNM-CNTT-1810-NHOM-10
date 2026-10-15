@@ -1,6 +1,9 @@
-env.local.sh
+# Ignore đề bài clone từ upstream
+de_bai/
+
+# Ignore cấu hình bảo mật cục bộ
+*.local
 .env
-*.log
-.DS_Store
-runtime/
-evidence/private/
+.local/
+__pycache__/
+*.tmp
